@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-08-21T14:00:00",
+  "heart_rate": [72, 75, 78, 90, 85],
+  "hrv": [55, 52, 48, 40, 45],
+  "calendar_event": "Team Sync",
+  "location": "Office"
+}
